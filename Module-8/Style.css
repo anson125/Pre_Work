@@ -1,0 +1,21 @@
+.redtext{
+    color:red;
+}
+.bluetext{
+    color:blue;
+}
+.greentext{
+    color:green;
+}
+.centeralign {
+    text-align: center;
+}
+.orangetext{
+    color:orange;
+}
+.styledFont{
+    color:green
+}
+#styledImage {
+    border: 5px solid orange;
+}
